@@ -17,4 +17,4 @@ I'm eager to learn the ropes of data visualization, from the basics of color the
 
 # Portfolio
 I will populate this section of the page with links to different projects as the course progresses.
-##https://github.com/mattsinger17/msinger1-portfolio/blob/master/Leading%20in%20Labour%20and%20in%20Likes
+https://github.com/mattsinger17/msinger1-portfolio/blob/master/Leading%20in%20Labour%20and%20in%20Likes
