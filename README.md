@@ -17,5 +17,5 @@ I'm eager to learn the ropes of data visualization, from the basics of color the
 
 # Portfolio
 I will populate this section of the page with links to different projects as the course progresses.
-# # subhead
+## subhead
 <embed> <iframe title="Leading in Labour and in Likes" aria-label="Bar Chart" src="//datawrapper.dwcdn.net/cbkTX/1/" scrolling="no" frameborder="0" style="border: none;" width="866" height="326"></iframe> </embed>
