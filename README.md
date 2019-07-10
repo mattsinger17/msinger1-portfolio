@@ -17,5 +17,5 @@ I'm eager to learn the ropes of data visualization, from the basics of color the
 
 # Portfolio
 I will populate this section of the page with links to different projects as the course progresses.
-## subhead
+## Leading in Labour and in Likes
 
