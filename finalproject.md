@@ -2,7 +2,7 @@
 This page will function as the home for the component parts of my final project proposal as I work toward ultimately completing it.
 
 ## Part #1
-The following passes constitute the first part of my final project proposal.
+The following passages constitute the first part of my final project proposal.
 
 ### Project Outline and Overview
 My final project for this class is connected to subject matter that I'm currently working on at my day job. One of my colleagues and I are the co-chairs of a collection of policy staffers in multiple offices that we've come to dub the Vacant, Abandoned, and Distressed Land Administration and Direct Services Policy Working Group, or the VLADS Policy Working Group for short. The goal our work thus far has been to partner with both internal and external stakeholders to offer hollistic operational and fiscal policy improvements that would better address vacant, abandoned, and distressed (VAD) land that's held by the City of Pittsburgh. For the purposes of my final project, I intend to hone in on vacant, publicly-owned land to illustrate the negative effects that City-owned vacant can produce, as well as touch on the need to allocate additional funding to certify this government-provided direct service as a greater priority for residents.
@@ -19,6 +19,10 @@ Because this dataset is incredibly large, the subset that I'll use has been narr
 | 0                     | 0                    | 0          | Municipal Government,  Municipal Improvement, or  Municipal Urban Renewal | Exempt          | City of  Pittsburgh |
 
 In doing so, I'm able to ascertain that propertyies assessed at a County-level taxable value of $0, a City-level taxable value of $0, and a sale price of $0 that's documented as in use for only municipal government purposes, holds a tax-exempt status, and is located within the geographical boundaries of the City of Pittsburgh are vacant, City-owned parcels. Thus, I'm able to reduce this dataset from close to 580,000 entries to 7,000. This data subset, filtered-down using my selected criteria, is [available here](https://data.wprdc.org/dataset/property-assessments/resource/f2b8d575-e256-4718-94ad-1e12239ddb92?filters=SALEPRICE%3A0%7CPROPERTYCITY%3APITTSBURGH%7CTAXDESC%3A10+-+Exempt%7CUSEDESC%3AMUNICIPAL+GOVERNMENT%7CUSEDESC%3AMUNICIPAL+IMPROVEMENT%7CUSEDESC%3AMUNICIPAL+URBAN+RENEWAL%7CCOUNTYBUILDING%3A0%7CLOCALBUILDING%3A0).
+
+
+#### Department of City Planning Vacant Parcel Inventory Data
+Through my work on the VLADS Policy Working Group, I was furnished with and have access to [this dataset](https://drive.google.com/file/d/1Xt1rcSDO7CYS1dbBwaTMBH-xYqRtCEKq/view?usp=sharing) by and from the City's Department of City Planning. The file itself — which provides an accounting of all of the City's vacant properties — isn't currently hosted on a public repository, but that hyperlink will bring a user to the saved copy of the file that I uploaded to my Google Drive account, which has been made public and accessible. This dataset is formatted and coded in such a way that I don't think it'll be of the same utility to me as the Allegheny County Property Assessment Parcel Data, but I wanted to take the time to register this source of data as a potential tool for cross-checking other data on City-owned vacant parcels.
 
 
 #### Citywide Revenues and Expenses
