@@ -2,6 +2,12 @@
 
 ## OECD Data Visualization #2
 ### OECD Web-Based Visualization Tool
+For the first part of this week's assignments, we were instructed to use one of the online OECD data tools to familiarize ourselves with one possible web-based data visualization tool. To that end, below is a data visualization in the form of a bar chart indicating ...
+
+>test 1
+>test 2
+
+
 <iframe src="https://data.oecd.org/chart/5CTW" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/5CTW" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2015</a></iframe>
 
 
