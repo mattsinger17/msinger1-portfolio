@@ -29,3 +29,6 @@ My assignments for Week #2 are [available here](/week2.md).
 
 ## Week #3 
 My assignments for Week #3 are [available here](/week3.md).
+
+## Final Project
+My final project proposal is [available here](/finalproject.md).
