@@ -7,8 +7,7 @@ For the first part of this week's assignments, we were instructed to use one of 
 
 We were encouraged to also highlight a few countries to represent a subset of the overall data for the year 2015. As shown on the visualization below, I highlighted the Nordic nations:
 
-<iframe src="https://data.oecd.org/chart/5CTW" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/5CTW" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2015</a></iframe>
-
+<iframe src="https://data.oecd.org/chart/5CUv" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/5CUv" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2015</a></iframe>
 
 ### Citation
 This data was taken from the OECD's online data archives, and the following attribution is used as a citation:
