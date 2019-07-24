@@ -7,8 +7,14 @@ The following passages constitute the first part of my final project proposal.
 ### Context of This Work
 My final project for this class is connected to subject matter that I'm currently working on at my day job. One of my colleagues and I are the co-chairs of a collection of policy staffers in multiple offices that we've come to dub the Vacant, Abandoned, and Distressed Land Administration and Direct Services Policy Working Group, or the VLADS Policy Working Group for short. The goal our work thus far has been to partner with both internal and external stakeholders to offer hollistic operational and fiscal policy improvements that would better address vacant, abandoned, and distressed (VAD) land that's held by the City of Pittsburgh. For the purposes of my final project, I intend to hone in on vacant, publicly-owned land to explore some of the possible negative effects that City-owned vacant can produce, as well as touch on the need to allocate additional funding to certify this government-provided direct service as a greater priority for residents.
 
+
 ### This Project's Goal, Summarized
 This project seeks to investigate whether there's a correlation between the number of complaint calls made to the City of Pittsburgh's 311 Service regarding publicly-owned vacant lots and the value of homes in the neighborhood and / or zip code where those empty parcels are located. It also intends to examine what relationship exists between the funding allocated by the City to maintain its vacant parcels each year, the yearly expenses logged for that activity, and aggregate complaints routed to the 311 Service for those properties, if any.
+
+
+### Method and Medium
+I intend to use Shorthand for this project. My cursory exposure to the platform has peaked my interest, so I'm excited to learn to use it better through this first-hand experience. More to the point, however, I feel that Shorthand is an appropriate medium for conveying the points necessary to accomplish my stated goal, as noted in the section above. The interactive combination of visualization-heavy formatting will allow me to place the graphics front and center, almost through an intentional restriction of the sheer amount of text that each slide page can contain. In doing so, I think that the main points that I'm setting out to get across are more clearly-stated, and that understanding on the part of the audience is more fluid. I'm confident that my goal can act as a guide for navigating my development of a narrative structure that is to-the-point and accessible to audience members who are unfamiliar with this topic and engaging with this subject matter for the first time.
+
 
 ### The Data
 
