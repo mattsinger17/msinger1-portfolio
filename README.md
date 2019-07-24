@@ -26,7 +26,7 @@ My assignments for Week #1 are [available here](/week1.md).
 <iframe title="Leading in Labour and in Likes" aria-label="Bar Chart" id="datawrapper-chart-cbkTX" src="//datawrapper.dwcdn.net/cbkTX/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="326"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();</script>
 
 ## Week #2
-My assignments for Week #2 are [available here][/week2.md).
+My assignments for Week #2 are [available here](/week2.md).
 ## Data Visualization Critique #2: New Housing Production in 2017
 <script id="infogram_0_4fc6ac39-3df9-4602-ad0b-9d050107dc79" title="New Housing Production in 2017" src="https://e.infogram.com/js/dist/embed.js?YSp" type="text/javascript"></script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/4fc6ac39-3df9-4602-ad0b-9d050107dc79" style="color:#989898!important;text-decoration:none!important;" target="_blank">New Housing Production in 2017</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
 
