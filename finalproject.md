@@ -112,3 +112,10 @@ The following questions were put to the respondees. The questions, as written-ou
 -**Respondee #2:** It would be easier to figure it all out if the symbols were more different.
 -**Respondee #3:** Without an axis to guide me, I had to use the little bubble message hint about it being a complaint number to figure out that it was 311-related.
 
+#### Findings
+One of the major findings was that my visualizations weren't inherently user-friendly or intuitive, even among those who possessed some degree familiarity. For example, I approached Question #3 expecting it to be a slam dunk. It was a color-coded gradient map. I figured that I didn't need to include a key to the map for publicly-owned vacant land categorized by ward because the gradient itself would imply increasing intensity. However, even Respondee #1 had trouble easily getting a sense of the information that I was trying to convey. Questions #5 and #6 produced results that were helpful, albeit expected. I was worried about having trouble succinctly conveying information on an X-Y axis chart that featured a non-axis, non-labeled variable in the form of differing sizes. I think that the changes that I made to that scatter plot to better indicate differentiation in size will help — as will the expanded-upon messages that pop up when users hover over the plot points.
+
+Another finding was that two out of the three respondents stated that property values were the first thing to pop into their minds when thinking of vacant property problems in urban neighborhoods. I'm not shocked by this, and in fact feel somewhat validated to have selected that facet of this project as a honed-in-upon part of my work.
+
+### Wireframe
+My wireframe, produced using Balsamiq, is shown below as an image file. 
