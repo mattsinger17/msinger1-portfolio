@@ -89,8 +89,11 @@ The third and final person played the part of the first kind of target audience 
 The following questions were put to the respondees. The questions, as written-out below, constitute the script of sorts that was used for the line of questioning. However, the answers provided have been shortened and paraphrased for the purposes of brevity and clarity.
 
 **Question #1:** On a scale of 1 to 5, with 5 being the highest, how familiar were you with the scale and density of publicly-owned properties within the geographic boundaries of the City of Pittsburgh?
+
 **Respondee #1:** 3
+
 **Respondee #2:** 2
+
 **Respondee #3:** 3.5
 
 **Question #2:** Using just a few words, list the first negative consequence that comes to mind when I raise the issue of vacant properties?
@@ -109,6 +112,7 @@ The following questions were put to the respondees. The questions, as written-ou
 **Respondee #3:** The color scale could be clearer, but familiarity with data and background on subject matter helped understanding.
      
 **Question #5:** Please explore this graphic using my computer. I'll ask you a question after about 30 seconds. After doing so, can you tell me what the circles represent?
+
 **Respondee #1:** They're *not* home prices, but I can't really tell what they're supposed to refer to.
 **Respondee #2:** I don't know.
 **Respondee #3:** They're referencing counts of 311 tickets.
