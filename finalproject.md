@@ -117,10 +117,10 @@ The following questions were put to the respondees. The questions, as written-ou
 **Respondee #2:** I don't know.
 **Respondee #3:** They're referencing counts of 311 tickets.
 
-**Question #6:** Following the last question, what would make it clearer that these circles correspond to aggregate 311 complaints tied to a specific issue for the associated neighborhood in that year?
-**Respondee #1:** You should add more labels or guides to make it clearer.
-**Respondee #2:** It would be easier to figure it all out if the symbols were more different.
-**Respondee #3:** Without an axis to guide me, I had to use the little bubble message hint about it being a complaint number to figure out that it was 311-related.
+__Question #6:__ Following the last question, what would make it clearer that these circles correspond to aggregate 311 complaints tied to a specific issue for the associated neighborhood in that year?
+__Respondee #1:__ You should add more labels or guides to make it clearer.
+__Respondee #2:__ It would be easier to figure it all out if the symbols were more different.
+__Respondee #3:__ Without an axis to guide me, I had to use the little bubble message hint about it being a complaint number to figure out that it was 311-related.
 
 #### Findings
 One of the major findings was that my visualizations weren't inherently user-friendly or intuitive, even among those who possessed some degree familiarity. For example, I approached Question #3 expecting it to be a slam dunk. It was a color-coded gradient map. I figured that I didn't need to include a key to the map for publicly-owned vacant land categorized by ward because the gradient itself would imply increasing intensity. However, even Respondee #1 had trouble easily getting a sense of the information that I was trying to convey. This, then, tells me that I should heed the advice given and incorporate a legend or key that makes clearer the intent of the graphic.
