@@ -119,3 +119,5 @@ Another finding was that two out of the three respondents stated that property v
 
 ### Wireframe
 My wireframe, produced using Balsamiq, is shown below as an image file. 
+
+![Wireframe for Part #2](Wireframe as Image.png)
