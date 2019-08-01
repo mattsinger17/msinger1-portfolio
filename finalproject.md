@@ -83,32 +83,32 @@ Because staff represents more powerful and influential higher-ups, I, as the pre
 The following questions were put to the respondees. The questions, as written-out below, constitute the script of sorts that was used for the line of questioning. However, the answers provided have been shortened and paraphrased for the purposes of brevity and clarity.
 
 **Question #1:** On a scale of 1 to 5, with 5 being the highest, how familiar were you with the scale and density of publicly-owned properties within the geographic boundaries of the City of Pittsburgh?
-     **Respondee #1:** 3
-     **Respondee #2:** 2
-     **Respondee #3:** 3.5
+-**Respondee #1:** 3
+-**Respondee #2:** 2
+-**Respondee #3:** 3.5
 
 **Question #2:** Using just a few words, list the first negative consequence that comes to mind when I raise the issue of vacant properties?
-     **Respondee #1:** Property re-sale values.
-     **Respondee #2:** Home prices.
-     **Respondee #3:** Neighborhood quality of life.
+-**Respondee #1:** Property re-sale values.
+-**Respondee #2:** Home prices.
+-**Respondee #3:** Neighborhood quality of life.
 
 **Question #3:** Yes or no, does this map clearly indicate the areas in which there are great numbers of publicly-owned vacant land?
-     **Respondee #1:** No.
-     **Respondee #2:** No.
-     **Respondee #3:** Yes.
+-**Respondee #1:** No.
+-**Respondee #2:** No.
+-**Respondee #3:** Yes.
 
 **Question #4:** Following the last question, can you explain your answer?
-     **Respondee #1:** There's no key or legend, which makes it harder to tell what the gradient means than it needs to be for me as a reader.
-     **Respondee #2:** The colors were confusing and don't match each other.
-     **Respondee #3:** The color scale could be clearer, but familiarity with data and background on subject matter helped understanding.
+-**Respondee #1:** There's no key or legend, which makes it harder to tell what the gradient means than it needs to be for me as a reader.
+-**Respondee #2:** The colors were confusing and don't match each other.
+-**Respondee #3:** The color scale could be clearer, but familiarity with data and background on subject matter helped understanding.
      
 **Question #5:** Please explore this graphic using my computer. I'll ask you a question after about 30 seconds. After doing so, can you tell me what the circles represent?
-     **Respondee #1:** They're *not* home prices, but I can't really tell what they're supposed to refer to.
-     **Respondee #2:** I don't know.
-     **Respondee #3:** They're referencing counts of 311 tickets.
+-**Respondee #1:** They're *not* home prices, but I can't really tell what they're supposed to refer to.
+-**Respondee #2:** I don't know.
+-**Respondee #3:** They're referencing counts of 311 tickets.
 
 **Question #6:** Following the last question, what would make it clearer that these circles correspond to aggregate 311 complaints tied to a specific issue for the associated neighborhood in that year?
-     **Respondee #1:** You should add more labels or guides to make it clearer.
-     **Respondee #2:** It would be easier to figure it all out if the symbols were more different.
-     **Respondee #3:** Without an axis to guide me, I had to use the little bubble message hint about it being a complaint number to figure out that it was 311-related.
+-**Respondee #1:** You should add more labels or guides to make it clearer.
+-**Respondee #2:** It would be easier to figure it all out if the symbols were more different.
+-**Respondee #3:** Without an axis to guide me, I had to use the little bubble message hint about it being a complaint number to figure out that it was 311-related.
 
