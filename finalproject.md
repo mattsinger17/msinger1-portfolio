@@ -96,6 +96,7 @@ The following questions were put to the respondees. The questions, as written-ou
 
 **Respondee #3:** 3.5
 
+
 **Question #2:** Using just a few words, list the first negative consequence that comes to mind when I raise the issue of vacant properties?
 
 **Respondee #1:** Property re-sale values.
@@ -103,6 +104,7 @@ The following questions were put to the respondees. The questions, as written-ou
 **Respondee #2:** Home prices.
 
 **Respondee #3:** Neighborhood quality of life.
+
 
 **Question #3:** Yes or no, does this map clearly indicate the areas in which there are great numbers of publicly-owned vacant land?
 
@@ -112,6 +114,7 @@ The following questions were put to the respondees. The questions, as written-ou
 
 **Respondee #3:** Yes.
 
+
 **Question #4:** Following the last question, can you explain your answer?
 
 **Respondee #1:** There's no key or legend, which makes it harder to tell what the gradient means than it needs to be for me as a reader.
@@ -119,6 +122,7 @@ The following questions were put to the respondees. The questions, as written-ou
 **Respondee #2:** The colors were confusing and don't match each other.
 
 **Respondee #3:** The color scale could be clearer, but familiarity with data and background on subject matter helped understanding.
+
      
 **Question #5:** Please explore this graphic using my computer. I'll ask you a question after about 30 seconds. After doing so, can you tell me what the circles represent?
 
@@ -127,6 +131,7 @@ The following questions were put to the respondees. The questions, as written-ou
 **Respondee #2:** I don't know.
 
 **Respondee #3:** They're referencing counts of 311 tickets.
+
 
 **Question #6:** Following the last question, what would make it clearer that these circles correspond to aggregate 311 complaints tied to a specific issue for the associated neighborhood in that year?
 
