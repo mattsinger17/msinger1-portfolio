@@ -97,30 +97,45 @@ The following questions were put to the respondees. The questions, as written-ou
 **Respondee #3:** 3.5
 
 **Question #2:** Using just a few words, list the first negative consequence that comes to mind when I raise the issue of vacant properties?
+
 **Respondee #1:** Property re-sale values.
+
 **Respondee #2:** Home prices.
+
 **Respondee #3:** Neighborhood quality of life.
 
 **Question #3:** Yes or no, does this map clearly indicate the areas in which there are great numbers of publicly-owned vacant land?
+
 **Respondee #1:** No.
+
 **Respondee #2:** No.
+
 **Respondee #3:** Yes.
 
 **Question #4:** Following the last question, can you explain your answer?
+
 **Respondee #1:** There's no key or legend, which makes it harder to tell what the gradient means than it needs to be for me as a reader.
+
 **Respondee #2:** The colors were confusing and don't match each other.
+
 **Respondee #3:** The color scale could be clearer, but familiarity with data and background on subject matter helped understanding.
      
 **Question #5:** Please explore this graphic using my computer. I'll ask you a question after about 30 seconds. After doing so, can you tell me what the circles represent?
 
 **Respondee #1:** They're *not* home prices, but I can't really tell what they're supposed to refer to.
+
 **Respondee #2:** I don't know.
+
 **Respondee #3:** They're referencing counts of 311 tickets.
 
-__Question #6:__ Following the last question, what would make it clearer that these circles correspond to aggregate 311 complaints tied to a specific issue for the associated neighborhood in that year?
-__Respondee #1:__ You should add more labels or guides to make it clearer.
-__Respondee #2:__ It would be easier to figure it all out if the symbols were more different.
-__Respondee #3:__ Without an axis to guide me, I had to use the little bubble message hint about it being a complaint number to figure out that it was 311-related.
+**Question #6:** Following the last question, what would make it clearer that these circles correspond to aggregate 311 complaints tied to a specific issue for the associated neighborhood in that year?
+
+**Respondee #1:** You should add more labels or guides to make it clearer.
+
+**Respondee #2:** It would be easier to figure it all out if the symbols were more different.
+
+**Respondee #3:** Without an axis to guide me, I had to use the little bubble message hint about it being a complaint number to figure out that it was 311-related.
+
 
 #### Findings
 One of the major findings was that my visualizations weren't inherently user-friendly or intuitive, even among those who possessed some degree familiarity. For example, I approached Question #3 expecting it to be a slam dunk. It was a color-coded gradient map. I figured that I didn't need to include a key to the map for publicly-owned vacant land categorized by ward because the gradient itself would imply increasing intensity. However, even Respondee #1 had trouble easily getting a sense of the information that I was trying to convey. This, then, tells me that I should heed the advice given and incorporate a legend or key that makes clearer the intent of the graphic.
@@ -131,7 +146,8 @@ Another finding was that two out of the three respondents stated that property v
 
 One thing that was especially interesting to me was that Respondees #1 and #3 didn't give themselves a higher numerical score for familiarity on the overall scale of familiarity with the scale of the number of City-owned vacant parcels located within the municipal boundaries. I had expected a half-point or full-point higher for both of their self-identified levels of familiarity, which told me that perhaps I need to spend some time setting the stage for more introduction and context early on in my presentation. My worry is that I won't be able to reel everyone in the target audience in. They might be uncertain of why this is a conversation worth having, which poses a hazardous possibility of failing to win them over from the very start.
 
-### Wireframe
-My wireframe, produced using Balsamiq, is shown below as an image file. The image has been left at a large size to permit easy reading.
+
+## Wireframe
+My wireframe, produced using Balsamiq, is shown below as an image file. The image is displayed  at a large size to permit easy reading.
 
 ![Wireframe for Part #2](Wireframe as Image.png)
