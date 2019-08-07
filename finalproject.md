@@ -159,9 +159,13 @@ My wireframe, produced using Balsamiq, is shown below as an image file. The imag
 
 
 ## Part #3
-First, and foremost, ![here's where you can see the finished product](https://carnegiemellon.shorthandstories.com/vacantlandproject/index.html).
+First, and foremost, [here's where you can see the finished product](https://carnegiemellon.shorthandstories.com/vacantlandproject/index.html).
 
 ### Hindsight is 20/20
 My finished project isn't a perfect reflection of the ultimate data story that I set out to make. I encountered a frustrating, albeit incredibly humbling, experience. I didn't have much trouble finding raw data, necessarily, but had a lot of trouble converting the datasets into visualizations of actual utility. To that end, this process was highly iterative: There was a lot of frenetic energy encapsulated into a stop-and-go linear course, there were forgone and abandoned visualizations that were fully completed, and there was a pesky High Charts visualization that refused to comply with embedding properties. 
 
-Most impactful, though, was the palpable sense of disinterest that I observed when I shared my work with others as I plugged along. Thus, I figured out that I had set out trying to do much, and had thus bit off more than I could chew.
+Most impactful, though, was the palpable sense of disinterest that I observed when I shared my work with others as I plugged along. Even after the feedback I received on my draft visualizations for Part #2, I began to realize that even if an item was made more understandable in a silo, it could nevertheless be confounding and of little value in the context of an entire project. Thus, I figured out that I had set out trying to do much, and had thus bit off more than I could chew.
+
+
+### My New New Intended Audience
+The actual target audience is now
