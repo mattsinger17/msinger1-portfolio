@@ -152,7 +152,16 @@ Another finding was that two out of the three respondents stated that property v
 One thing that was especially interesting to me was that Respondees #1 and #3 didn't give themselves a higher numerical score for familiarity on the overall scale of familiarity with the scale of the number of City-owned vacant parcels located within the municipal boundaries. I had expected a half-point or full-point higher for both of their self-identified levels of familiarity, which told me that perhaps I need to spend some time setting the stage for more introduction and context early on in my presentation. My worry is that I won't be able to reel everyone in the target audience in. They might be uncertain of why this is a conversation worth having, which poses a hazardous possibility of failing to win them over from the very start.
 
  
-## Wireframe
+### Wireframe
 My wireframe, produced using Balsamiq, is shown below as an image file. The image is displayed  at a large size to permit easy reading.
 
 ![Wireframe for Part #2](Wireframe as Image.png)
+
+
+## Part #3
+First, and foremost, ![here's where you can see the finished product](https://carnegiemellon.shorthandstories.com/vacantlandproject/index.html).
+
+### Hindsight is 20/20
+My finished project isn't a perfect reflection of the ultimate data story that I set out to make. I encountered a frustrating, albeit incredibly humbling, experience. I didn't have much trouble finding raw data, necessarily, but had a lot of trouble converting the datasets into visualizations of actual utility. To that end, this process was highly iterative: There was a lot of frenetic energy encapsulated into a stop-and-go linear course, there were forgone and abandoned visualizations that were fully completed, and there was a pesky High Charts visualization that refused to comply with embedding properties. 
+
+Most impactful, though, was the palpable sense of disinterest that I observed when I shared my work with others as I plugged along. Thus, I figured out that I had set out trying to do much, and had thus bit off more than I could chew.
