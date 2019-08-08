@@ -1,6 +1,11 @@
 # Final Project Proposal
 This page will function as the home for the component parts of my final project proposal as I work toward ultimately completing it.
 
+
+# Final Project Documentation
+While the process by which I worked toward the now-submitted version of the project is elaborated on herein, [the project itself can be found here](https://carnegiemellon.shorthandstories.com/vacantlandproject/index.html). Another link is also available toward the end of this page, so as to allow for chronological reading with minimal back-and-forth scrolling. 
+
+
 ## Part #1
 The following passages constitute the first part of my final project proposal.
 
