@@ -177,3 +177,28 @@ One takeaway that particularly jumps out at me is that designers, a classificati
 This may seem trite, but I found it to be rather poignant. Production-wise, I'm often a stubborn creator. This is true of most of my work products: papers, reports, and even lecture notes. If I've begun to work a certain way, I'll simply white-knuckle my way through until completion. Disregarding the intrinsic merit of specific routine, however illogical or flat out ugly, becomes wholly perfunctory for me. To wit, have you noticed how the home page of my portfolio has had a massive photo of me and my cat on it because I can't figure out how to resize or reformat it? Have you also just grown to accept it as-is?
 
 But, I digress. Falling into this old habit was a lot harder when my final product actually had to look good and be aesthetically-pleasing on top of communicating information coherently and astutely. As such, it was no easy task to try to trim away a lot of work and abandon a decent amount of expended time and energy for the sake of coherence. The detritus of would-be visualizations were salvaged in some cases and repurposed where appropriate and possible. A once-disjointed narrative comprised of bits and pieces slowly became more ecumenical. And eventually, I wound up with a product with which I was satisfied.
+
+
+### Bibliography
+The sources that I used for my final project are cited below, excluding image attribution, which is shown solely on Shorthand.
+
+City of Pittsburgh. "2019 Operating Budget and Five Year Plan." December 2018. July 2019. <https://apps.pittsburghpa.gov/redtail/images/4650_2019_Operating_Budget_as_amended.pdf>.
+
+"Inaugural Strategic Plan." 2018. Pittsburgh Land Bank. August 2019. <http://pghlandbank.org/content/2-about-us/3-policies/plb-inaugural-strat-plan-adopted.pdf>.
+
+Grounded Strategies. "Vacant Land Management: Strategies for Equitable Property Management in the City of Pittsburgh." November 2018. August 2019. <https://groundedpgh.org/wp-content/uploads/2019/05/DRAFT-VLM_WhitePaper_Grounded.pdf>.
+
+Kluge, Alex. "Pittsburgh Vacant Land Budget Guide." 2019. Grounded Strategies. August 2019. <https://infogram.com/vacant-land-1ho16vwjk8972nq>.
+
+Mallach, Alan. "The Empty House Next Door: Understanding and Reducing Vacancy and Hypervacancy in the United States." 2018. The Lincoln Institute. August 2019. <https://www.lincolninst.edu/sites/default/files/pubfiles/empty-house-next-door-full.pdf>.
+
+Redfin. Redfin Data Center. n.d. July 2019. <https://public.tableau.com/shared/D6JBXTN9Q?:display_count=yes&:origin=viz_share_link&:showVizHome=no>.
+
+The Center for Community Progress. "The Cost of Vacant and Blighted Properties in Pittsburgh: A Conservative Analysis of Service, Tax Delinquency, and Spillover Costs." March 2017. August 2019. <https://www.communityprogress.net/filebin/The_Cost_of_Vacant_and_Blighted_Properties_in_Pittsburgh_-_A_Conservative_Analysis_of_Service_Tax_Delinquency_and_Spillover_Costs_Center_for_Communuty_Progress.pdf>.
+
+Western Pennsylvania Regional Data Center. "311 Data." July 2019. City of Pittsburgh. July 2019. <https://data.wprdc.org/dataset/311-data>.
+
+Western Pennsylvania Regional Data Center. "City Revenues and Expenses." July 2019. City of Pittsburgh. July 2019. <https://data.wprdc.org/dataset/city-revenues-and-expenses>.
+
+Western Pennsylvania REgional Data Center. "July 2019 Property Assessments Parcel Data." 2019 July. Allegheny County. July 2019. <https://data.wprdc.org/dataset/2b3df818-601e-4f06-b150-643557229491/resource/f2b8d575-e256-4718-94ad-1e12239ddb92/download/assessments.csv>.
+
